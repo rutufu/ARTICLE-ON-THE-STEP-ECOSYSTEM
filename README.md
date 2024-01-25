@@ -65,10 +65,15 @@ This infographic visually represent the Step ecosystem, showcasing the relations
 # How it all Ties In Together
 The beauty of the Step ecosystem lies in its interconnectedness. Each sub-brand plays a vital role in enriching the overall user experience and driving the ecosystem's growth.
 •	Step Analytics informs Step Finance users with data-driven insights, enabling informed investment decisions.
+
 •	The Step DAO empowers token holders to guide the future of the platform, ensuring its alignment with community needs.
+
 •	Solana Floor and Solana Crossroads connect investors and projects, fostering collaboration and promoting growth within the ecosystem.
+
 •	Step Data Insights provides premium data to professional investors, further solidifying the ecosystem's position as a valuable information resource.
+
 •	Solana Allstars celebrates individuals and projects shaping the future of Solana, boosting morale and attracting talent.
+
 •	The Next Billion educates new users, ensuring responsible growth and sustainability of the ecosystem.
 
 # What Excites Me Most about Step Finance:
